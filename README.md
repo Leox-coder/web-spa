@@ -4,9 +4,9 @@ Este es un proyecto de práctica que forma parte de mi portfolio personal. Fue d
 
 ## 🔧 Tecnologías utilizadas
 
-- WordPress
-- Plugins
-- Optimización SEO
+- HTML5
+- CSS3
+- JavaScripts
 
 
 ## 💻 Ver online
