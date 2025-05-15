@@ -11,7 +11,7 @@ Este es un proyecto de práctica que forma parte de mi portfolio personal. Fue d
 
 ## 💻 Ver online
 
-👉 [Ver sitio web](https://leox-coder.github.io-web-spa-)
+👉 [Ver sitio web](https://leox-coder.github.io/web-spa/)
 
 
 ## 📌 Notas adicionales
